@@ -1,0 +1,122 @@
+X: 1
+T:Summer Nights
+C:Grease
+V:Boy
+V:Girl
+V:L
+V:R
+M:4/4
+L:1/4
+Q:1/4=120
+K:D
+% INCOMPLETE VERSION. Has more than one voice, can be treated by a karaoke player
+V:L
+D,, z/2 D,,/2 G,, z/2 G,,/2 | A,, z/2 A,,/2 G,,/2 A,, G,,/2 | D,, z/2 D,,/2 G,, z/2 G,,/2 | A,, z/2 A,,/2 G,,/2 A,, G,,/2 |
+V:R
+z4 | z4 | z4 | z4 |
+V:Boy
+z4 | z4 | z4 | z4 |
+V:Girl
+z4 | z4 | z4 | z4 |
+%
+%
+V:L
+|: D,, z/2 D,,/2 G,, z/2 G,,/2 | A,, z/2 G,,/2 G,, z/2 G,,/2 |
+V:R
+|: z [A,/2F/2] [F,/2D/2] [B,/2G/2] [G,/2E/2] z | [C/2A/2] F/2 A/2 [B,DA] G3/2 |
+V:Boy
+|: z F/2 D/2 G/2 E/2 z | A/2 F/2 A/2 A G3/2 |
+w: Sum-mer lov-in' had me a blast._
+V:Girl
+|: z4 | z4 |
+%
+%
+V:L
+D,, z/2 D,,/2 G,, z/2 G,,/2 | A,, z/2 G,,/2 G,, z/2 G,,/2 |
+V:R
+z [A,/2F/2] [F,/2D/2] [B,/2G/2] [G,/2E/2] z | [C/2A/2] F/2 A/2 [B,DA] G3/2 |
+V:Boy
+z4 | z4 |
+V:Girl
+z f/2 d/2 g/2 e/2 z | a/2 f/2 a/2 a g3/2 |
+w: Sum-mer lov-in' hap-pened so fast._
+%
+%
+V:L
+D,, z/2 D,,/2 G,, z/2 G,,/2 | A,, z/2 B,,5/2 |
+V:R
+z [A,/2F/2] [F,/2D/2] [B,G] z | [C/2A/2] F/2 A/2 [B5/2^D5/2B,5/2] |
+V:Boy
+z F/2 D/2 G z | A/2 F/2 A/2 B3/2 z |
+w: Met a girl, cra-zy for me._
+V:Girl
+z4 | z4 |
+%
+%
+V:L
+E,,2 A,, z/2 A,,/2 | E,,2 A,,/2 A,,/2 B,,/2 D,/2 |
+V:R
+z [B,/2^G/2] [^G,/2E/2] [C2E2A2] | [^G/2B,/2] E/2 G/2 [C5/2E5/2A5/2] |
+V:Boy
+z4 | z4 |
+V:Girl
+z ^g/2 e/2 a z | ^g/2 e/2 g/2 a3/2 z |
+w: Met a boy, cute as can be.
+%
+%
+V:L
+D,,/2 D,,/2 z G,,/2 G,,/2 z/2 G,,/2 | A,,/2 A,,/2 z/2 B,, B/2 z/2 B/2 |
+V:R
+z [F/2d/2] [D/2A/2] [D2=G2B2] | [C/2E/2A/2] B/2 A/2 [B,3/2^D3/2F3/2] B/2 A/2 |
+V:Boy
+z d/2 A/2 B z | A/2 B/2 A/2 F3/2 B/2 A/2 |
+w: Sum-mer days drift-ing a-way to._
+V:Girl
+z d'/2 a/2 b z | a/2 b/2 a/2 f3/2 b/2 a/2 |
+w: Sum-mer days drift-ing a-way to._
+%
+%
+V:L
+[1 E,,/2 E,,/2 z A,,/2 A,,/2 z | D,, A,,/2 A,,/2 B,,/2 B,,/2 C,/2 C,/2 |
+V:R
+[1 [B,=DG] E/2 B/2 [C/2A/2] B/2 A/2 [F,3/2A,3/2D3/2] | A,/2 A,/2 B,/2 B,/2 C/2 C/2 |
+V:Boy
+G/2 z/2 E/2 B/2 A/2 B/2 A/2 D3/2 | A,/2 A,/2 B,/2 B,/2 C/2 C/2 |
+w: uh, oh. those sum--mer nights, Well-a, well-a, well-a
+V:Girl
+g/2 z/2 e/2 b/2 a/2 b/2 a/2 d3/2 | a,/2 a,/2 b,/2 b,/2 c/2 c/2 |
+w: uh, oh. those sum--mer nights, Well-a, well-a, well-a
+%
+%
+V:L
+D,/2 D,/2 z G,,/2 G,,/2 z | E,,/2 E,,/2 z A,,/2 A,,/2 z |
+V:R
+[F,D] [D/2F/2A/2] A/2 [DGB] [D/2G/2B/2] B/2 | [E^GB] B/2 B/2 [C/2E/2A/2] B/2 A/2 [A,3/2D3/2F3/2] |
+V:Boy
+D A/2 A/2 B B/2 B/2 | B B/2 B/2 A/2 B/2 A/2 F3/2 |
+w: uh. Tell me more, Tell me more, Did you get ver-y far?
+V:Girl
+z4 | z4 |
+%
+%
+V:L
+D,,/2 D,,/2 z G,,/2 G,,/2 z | E,,/2 E,,/2 z A,,/2 A,,/2 z |
+V:R
+[D/2F/2A/2] A/2 [D=GB] [D/2G/2B/2] B/2 | [D=GB] [D/2G/2B/2] B/2 [C/2E/2A/2] B/2 A/2 [A,DF] |
+V:Boy
+z3 | z4 |
+V:Girl
+z a/2 a/2 b b/2 b/2 | b b/2 b/2 a/2 b/2 a/2 f3/2 |
+w: Tell me more, Tell me more, Like does he have a car?
+%
+%
+V:L
+D,, z/2 D,,/2 G,, z/2 G,,/2 A,, z/2 A,,/2 G,,/2 A,, G,,/2 :|
+V:R
+[A,/2D/2F/2] [A,/2D/2F/2] z/2 z/2 [B,/2D/2G/2] [B,/2D/2G/2] z/2 | z/2 [C/2E/2A/2] [C/2E/2A/2] z/2 z2 :|
+V: Boy
+ z4 | z4 :|
+V:Girl
+ z3 | z4 :|
+%
+%

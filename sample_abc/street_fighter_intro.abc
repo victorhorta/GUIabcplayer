@@ -1,0 +1,25 @@
+X: 1
+T:Street Fighter II Intro
+V:Piano1
+V:Piano2
+M:4/4
+L:1/8
+Q:1/4=180
+K:A
+V:Piano1
+z6 a e' |: a' a e' a' a e' a' a |
+e' a' a e' a' a e' a' | a e' a' a e' a' a e' :|
+a e' a' a e' a' a e' | a' a e' a' a e' a' a |
+z2 [=C=F] [^D,/2C/2] [=G,/2] [D=G] D,/2 C/2 D, [E,9B,5E9] |
+z2 [Dd] [C2c2] [Dd] [E4e4] | d/2 c/2 [B'4B4] |
+z [Cc] [Dd] [E2e2] [A2a2] [d4d'4] | c'/2 b/2 [A2a2] [Bb] [=c4=c'4] |
+b/2 a/2 [=F2=f2] [Ff] [d4d'4] | =c'/2 b/2 [=G2=g2] [Gg] [A9a9] |
+V:Piano2
+z8 | z8 |
+z [A,/2E/2] [A,/2E/2] [E2A2] [E2A2] [A,E] [A,E] |
+|: [EA] [A,E] [E2A2] [=D/2G/2] =G,/2 [D/2G/2] G,/2 [E/2A/2] A,/2 [E2A2] | [A,E] [E2A2] [E2A2] [A,2E2] :|
+[EA] [A,E] [E2A2] [=D/2G/2] =G,/2 [D/2G/2] G,/2 [E/2A/2] A,/2 [EA] | z2 [=F,=F,,] [F,F,,] [=G,,=G,] [=G,,=G,] z [E,,E,] |
+z [E,,E,] [E,,E,] [E,,E,] [E,,D,] [E,,D,]  [E,,E,]  [A,,E,] | z [A,,E,A,] [A,,E,A,] [A,,E,A,] [A,,E,A,] [A,,E,A,] [A,,E,A,] [=G,,E,=G] |
+z [=G,,E,=G] [=G,,E,=G] [=G,,E,=G] [=G,,D,=G] [=G,,D,=G] [=G,,E,=G] [A,,E,A,] | z [A,,E,A,] [A,,E,A,] [A,,E,A,] [A,,E,A,] [A,,E,A,] [A,,E,A,] [=G,,E,=G] |
+z [=G,,E,=G] [=G,,E,=G] [=G,,E,=G] [=G,,D,=G] [=G,,D,=G] [=G,,E,=G] [=F,,=C,=F,] | z [=F,,=C,=F,] [F,,C,F,] [F,,C,F,] [F,,C,F,] [F,,C,F,] [F,,C,F,] [=G,,E,=G] |
+z [=G,,E,=G] [=G,,E,=G] [=G,,E,=G] [=G,,D,=G] [=G,,D,=G] [=G,,E,=G] [A,,9E,9A,9] |   
